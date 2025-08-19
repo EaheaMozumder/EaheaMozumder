@@ -1,4 +1,3 @@
-````markdown name=README.md
 <!-- Profile README for Eahea Mozumder -->
 
 <h1 align="center">Hi there, I'm Eahea Mozumder 👋</h1>
@@ -86,4 +85,3 @@ I'm a final-year Computer Science & Technology diploma student passionate about 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-````
