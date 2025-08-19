@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Eahea Mozumder 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Data+Science+Enthusiast;Machine+Learning+Explorer;Web+Developer&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Data+Science+Enthusiast;Machine+Learning+Explorer;Web+Designer&center=true&width=400&height=60">
 </p>
 
 ---
@@ -71,8 +71,8 @@ I'm a final-year Computer Science & Technology diploma student passionate about 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:eaheamozumder@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/eahea-mozumder/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mdeaheamozumder@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/md-eahea-mozumder/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/EaheaMozumder"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <!-- Add more social media links as needed -->
 </p>
